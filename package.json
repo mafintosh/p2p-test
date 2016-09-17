@@ -1,0 +1,26 @@
+{
+  "name": "p2p-test",
+  "version": "0.0.0",
+  "description": "Test and report p2p connectivity on the current network",
+  "bin": {
+    "p2p-test": "./bin.js"
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^8.0.0"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/p2p-test.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/p2p-test/issues"
+  },
+  "homepage": "https://github.com/mafintosh/p2p-test"
+}
