@@ -4,7 +4,7 @@ Test and report p2p connectivity on the current network
 
 ```
 npm install -g p2p-test
-p2p-test [optional-short-message-description-the-network]
+p2p-test [optional-short-message-description-of-the-network]
 ```
 
 It works by sending a couple of UDP packets to some known endpoints (p2p-test-1.mafintosh.com and p2p-test-2.mafintosh.com)
