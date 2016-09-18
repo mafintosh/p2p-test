@@ -12,6 +12,10 @@ and having the endpoints analyse them.
 
 You can take a look at the server here, https://github.com/mafintosh/p2p-test-server
 
+## Results
+
+The result of this survey will be published in my talk at [NodeConf Argentina](https://2016.nodeconf.com.ar) and in a following blog post about p2p hole punching.
+
 ## License
 
 MIT
