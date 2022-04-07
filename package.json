@@ -1,12 +1,14 @@
 {
   "name": "p2p-test",
   "version": "1.0.0",
-  "description": "Test and report p2p connectivity on the current network",
+  "description": "Help collect info about P2P connectivity",
   "bin": {
     "p2p-test": "./bin.js"
   },
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "@hyperswarm/dht": "^5.0.23"
+  },
   "devDependencies": {
     "standard": "^8.0.0"
   },
